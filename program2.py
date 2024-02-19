@@ -18,3 +18,7 @@ for single_course in courseList:
 print("update")
 courseList.pop(0)
 print("After Pop ",courseList)
+
+teledictionary={9898989812:"Anish",9876543210:"Kevin"}
+print("The Dictionary is ",teledictionary)
+print("The First Value is ", teledictionary[9898989812])
